@@ -1,1 +1,1 @@
-# Machine_Learning_NotesThis repo is aimed to save notes about **Machine Learning**.
+# Machine_Learning_NotesThis repo is aimed to keep notes about **Machine Learning**.
